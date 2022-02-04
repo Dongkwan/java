@@ -1,6 +1,2 @@
 # ignore all .class files
 *.class
-
-.project
-.classpath
-.settings/
