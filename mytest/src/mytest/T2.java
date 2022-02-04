@@ -2,7 +2,7 @@ package mytest;
 
 public class T2 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {//
 
 	}
 
