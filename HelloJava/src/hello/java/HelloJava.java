@@ -1,3 +1,4 @@
+package hello.java;
 
 public class HelloJava {
 
